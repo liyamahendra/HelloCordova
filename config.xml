@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.cordova.hellocordova" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>HelloCordova</name>
+    <description>Sample Apache Cordova App</description>
+    <author email="dev@cordova.apache.org" href="https://cordova.apache.org">
+        Apache Cordova Team
+    </author>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <platform name="android">
+        <icon background="resources/android/icon/ldpi-background.png" density="ldpi" foreground="resources/android/icon/ldpi-foreground.png" monochrome="resources/android/icon/ldpi-monochrome.png" src="resources/android/icon/ldpi.png" />
+        <icon background="resources/android/icon/mdpi-background.png" density="mdpi" foreground="resources/android/icon/mdpi-foreground.png" monochrome="resources/android/icon/mdpi-monochrome.png" src="resources/android/icon/mdpi.png" />
+        <icon background="resources/android/icon/hdpi-background.png" density="hdpi" foreground="resources/android/icon/hdpi-foreground.png" monochrome="resources/android/icon/hdpi-monochrome.png" src="resources/android/icon/hdpi.png" />
+        <icon background="resources/android/icon/xhdpi-background.png" density="xhdpi" foreground="resources/android/icon/xhdpi-foreground.png" monochrome="resources/android/icon/xhdpi-monochrome.png" src="resources/android/icon/xhdpi.png" />
+        <icon background="resources/android/icon/xxhdpi-background.png" density="xxhdpi" foreground="resources/android/icon/xxhdpi-foreground.png" monochrome="resources/android/icon/xxhdpi-monochrome.png" src="resources/android/icon/xxhdpi.png" />
+        <icon background="resources/android/icon/xxxhdpi-background.png" density="xxxhdpi" foreground="resources/android/icon/xxxhdpi-foreground.png" monochrome="resources/android/icon/xxxhdpi-monochrome.png" src="resources/android/icon/xxxhdpi.png" />
+    </platform>
+</widget>
